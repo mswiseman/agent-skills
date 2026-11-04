@@ -1,0 +1,4 @@
+interface:
+  display_name: "Segmentation Annotation Tool"
+  short_description: "Create local mask editors with brush, pen, wand, and undo"
+  default_prompt: "Use $segmentation-annotation-tool to create an annotation editor from my images and optional segmentation masks."
